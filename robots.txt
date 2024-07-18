@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://manxidern.github.io/sitemap
+Sitemap: https://manxidern.github.io/app/sitemap
+Sitemap: https://manxidern.github.io/assets/sitemap
+Sitemap: https://manxidern.github.io/css/sitemap
+Sitemap: https://manxidern.github.io/includes/sitemap
+Sitemap: https://manxidern.github.io/item/sitemap
+Sitemap: https://manxidern.github.io/src/sitemap
